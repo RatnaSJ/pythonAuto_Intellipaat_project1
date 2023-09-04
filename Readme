@@ -1,0 +1,41 @@
+## AUTHOR - RATNA JAGANATH SHINDE
+## LAST MODIFIED => 04 SEPTEMBER 2023
+
+.PRE - REQUISITES:
+    Chrome browser
+    Install python 3.10
+    Install 3rd part modules
+       pip install json5
+       pip install selenium
+       pip install webdriver-manager
+
+.Framework folder structor and information:
+     .pythonAuto_Intellipaat[pythonSelenium_Intellipaat_project]
+
+     .This project is aimed at automating the signup and login processes on the
+            IntelliPaat website using Selenium WebDriver in Python.
+
+     .TestSignupWithDifferentUsers.py: A script for automating the signup process for multiple
+          users using data from a JSON file (SignupUser.json5).
+
+     .TestLoginWithDifferentUsers.py: A script for automating the login process for multiple
+          users using data from the same JSON file (SignupUser.json5).
+
+     .SignupUser.json5: A JSON5 file containing user data for both signup and login tests.
+
+     .Utilities/: A directory containing utility classes for interacting with the signup and login pages.
+
+.Confitest/: A directory containing configuration files for the Selenium WebDriver.
+
+.log_config.py: A module for configuring the logging system.
+
+.README.md: This README file.
+
+.Test Results
+.The test results, including logs and any potential errors,
+     are logged to separate log files (test.log for signup and login.log for login).
+
+.Contributing
+Contributions and improvements are welcome! If you have any suggestions or find any issues,
+please feel free to open an issue or submit a pull request.
+

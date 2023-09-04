@@ -1,0 +1,20 @@
+{
+  signup_list: [
+    {
+           "firstname": "parta", "lastname": "joy",
+           "emailaddress": "prtara@gmail.com",
+           "password": "pjrta193", "country": "India", "phone": "8899432677"
+    },
+    {
+           "firstname": "cvjkom", "lastname": "ney",
+           "emailaddress": "cvjk@gmail.com",
+           "password": "cjm725", "country": "India", "phone": "8877535455"
+    },
+    {
+           "firstname": "mnali", "lastname": "tey",
+           "emailaddress": "mnaliri@gmail.com",
+           "password": "mnli123", "country":
+           "India", "phone": "8997755477"
+    }
+  ]
+}
